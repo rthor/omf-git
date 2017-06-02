@@ -12,11 +12,11 @@
 ## Install
 
 ```fish
-$ omf install omf-git
+$ omf install https://github.com/rthor/omf-git
 ```
 
 ## Usage
-Adds the following aliases.
+Adds the following abbreviations.
 
 - **`g`**: `git`
 
@@ -49,12 +49,9 @@ Adds the following aliases.
 
 # License
 
-[MIT][mit] © [Ragnar Valgeirsson][author] et [al][contributors]
-
+[MIT][mit] © [Ragnar Þór Valgeirsson][author]
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/plugin-omf-git/graphs/contributors
+[author]:         https://github.com/rthor
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
