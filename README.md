@@ -9,7 +9,6 @@
 
 <br/>
 
-
 ## Install
 
 ```fish
@@ -19,33 +18,34 @@ $ omf install omf-git
 ## Usage
 Adds the following aliases.
 
+- **`g`**: `git`
+
 #### Commiting...
-`gc`: `git commit`
-`gca`: `git commit -a`
-`gl`: `git pull`
-`gp`: `git push`
-`gd`: `git diff`
+- **`gc`**: `git commit`
+- **`gca`**: `git commit -a`
+- **`gl`**: `git pull`
+- **`gp`**: `git push`
+- **`gd`**: `git diff`
 
 #### Logging...
-`glo`: `git log --oneline --decorate`
-`glog`: `git log --oneline --decorate --graph`
-`gloga`: `git log --oneline --decorate --graph --all`
+- **`glo`**: `git log --oneline --decorate`
+- **`glog`**: `git log --oneline --decorate --graph`
+- **`gloga`**: `git log --oneline --decorate --graph --all`
 
 #### Miscellaneous...
-`ga`: `git add`
-`gaa`: `git add --all`
-`gco`: `git checkout`
-`gb`: `git branch`
+- **`ga`**: `git add`
+- **`gaa`**: `git add --all`
+- **`gco`**: `git checkout`
+- **`gb`**: `git branch`
 
 #### Stash manipulation...
-`gsta`: `git stash save`
-`gstaa`: `git stash apply`
-`gstc`: `git stash clear`
-`gstd`: `git stash drop`
-`gstl`: `git stash list`
-`gstp`: `git stash pop`
-`gsts`: `git stash show --text`
-
+- **`gsta`**: `git stash save`
+- **`gstaa`**: `git stash apply`
+- **`gstc`**: `git stash clear`
+- **`gstd`**: `git stash drop`
+- **`gstl`**: `git stash list`
+- **`gstp`**: `git stash pop`
+- **`gsts`**: `git stash show --text`
 
 # License
 
