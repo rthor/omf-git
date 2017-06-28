@@ -14,6 +14,7 @@ function init -a path --on-event init_git
   abbr gloga 'git log --oneline --decorate --graph --all'
 
   # Miscellaneous...
+  abbr gst 'git status'
   abbr ga 'git add'
   abbr gaa 'git add --all'
   abbr gco 'git checkout'
