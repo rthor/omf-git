@@ -18,6 +18,7 @@ function init -a path --on-event init_git
   abbr gaa 'git add --all'
   abbr gco 'git checkout'
   abbr gb 'git branch'
+  abbr gconf 'git diff --name-only --diff-filter=U'
 
   # Stash manipulation...
   abbr gsta 'git stash save'
