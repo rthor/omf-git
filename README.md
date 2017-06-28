@@ -33,10 +33,13 @@ Adds the following abbreviations.
 - **`gloga`**: `git log --oneline --decorate --graph --all`
 
 #### Miscellaneous...
+- **`gst`**: `git status`
 - **`ga`**: `git add`
 - **`gaa`**: `git add --all`
 - **`gco`**: `git checkout`
+- **`gcm`**: `git checkout master`
 - **`gb`**: `git branch`
+- **`gconf`**: `git diff --name-only --diff-filter=U`
 
 #### Stash manipulation...
 - **`gsta`**: `git stash save`
