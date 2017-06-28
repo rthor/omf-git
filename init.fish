@@ -18,6 +18,7 @@ function init -a path --on-event init_git
   abbr ga 'git add'
   abbr gaa 'git add --all'
   abbr gco 'git checkout'
+  abbr gcm 'git checkout master'
   abbr gb 'git branch'
   abbr gconf 'git diff --name-only --diff-filter=U'
 
